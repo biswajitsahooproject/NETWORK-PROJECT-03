@@ -88,8 +88,6 @@ The Vic Modern Hotel network design provides a robust and scalable network to co
 
 Project Files
 The project file is available in the repository:
-
-Network Design File: vic_modern_hotel_network.pkt – Cisco Packet Tracer file containing the network topology and configurations.
 Author Information
 Name: Biswajit Sahoo
 LinkedIn: Biswajit Sahoo LinkedIn
